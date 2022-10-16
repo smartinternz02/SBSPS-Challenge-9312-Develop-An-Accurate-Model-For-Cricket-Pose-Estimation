@@ -2,4 +2,4 @@
 Develop An Accurate Model For Cricket Pose Estimation
 dataset link:its difficult to upload all the images in the github..sorry for the inconvience please bear with us.
 link of the dataset is: https://drive.google.com/drive/folders/1MxMBKlb83Usbif1RyqrvE1JDA4W02Vgu?usp=sharing
-youtubelink :https://www.youtube.com/watch?v=CRC1-j2omhY
+youtubelink :https://www.youtube.com/watch?v=RbrkvIH3xlk&t=25s
